@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="image">TODO</string>
+    <string name="item_three">Item Three</string>
+    <string name="item_two">Item Two</string>
+    <string name="item_one">Item One</string>
+    <string name="the_andela_learning_community_is_a_network_of_people_technologists_and_tech_enthusiasts_across_africa_dedicated_to_learn_how_to_use_technology_to_solve_humanities_problems">
+        The Andela Learning Community is a network of people, technologists, and tech enthusiasts across Africa
+        dedicated to learn how to use technology to solve humanities problems.
+    </string>
+    <string name="join_us">Join us!</string>
+    <string name="a_community_empowering_the_next_generation_of_african_technology_leaders">A community empowering the
+        next generation of African Technology leaders.
+    </string>
+    <string name="the_andela_learning_community">THE ANDELA LEARNING COMMUNITY</string>
+    <string name="daniel_o_oketch">Daniel O. Oketch</string>
+    <string name="todo">TODO</string>
+    <string name="email_danielochieng967_gmail_com">Email: danielochieng967@gmail.com</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_kenya">Country: Kenya</string>
+    <string name="phone_254713742">Phone: +254713742</string>
+    <string name="name">name</string>
+
+</resources>
